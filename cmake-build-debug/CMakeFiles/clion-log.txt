@@ -1,4 +1,0 @@
-"/home/paculator/Рабочий стол/clionnn/clion-2021.3.3/bin/cmake/linux/bin/cmake" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=/home/paculator/Рабочий стол/clionnn/clion-2021.3.3/bin/ninja/linux/ninja" -G Ninja "/home/paculator/Рабочий стол/lab_02"
--- Configuring done
--- Generating done
--- Build files have been written to: /home/paculator/Рабочий стол/lab_02/cmake-build-debug
